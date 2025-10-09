@@ -22,7 +22,7 @@ class Livro implements Comparable<Livro> {
 	public String getTitulo() {
 		return titulo;
 	}
-
+  
 	public String getAutor() {
 		return autor;
 	}

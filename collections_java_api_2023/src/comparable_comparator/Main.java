@@ -48,7 +48,7 @@ public class Main {
 					livro.getAno());
 		}
 
-		System.out.println("---------------------------------------");
+		System.out.println("---------------------------------------");  
 
 		System.out.println("Livros após a ordenação por ano, autor e título: ");
 		Collections.sort(livros, new CompararAnoAutorTitulo());
