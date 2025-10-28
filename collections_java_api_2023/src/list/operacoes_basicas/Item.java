@@ -1,4 +1,4 @@
-package list.OperacoesBasicas;
+package list.operacoes_basicas;
 
 /** Cada item é representado por uma classe chamada "Item" que possui atributos como nome, preço e quantidade.*/
 public class Item {
